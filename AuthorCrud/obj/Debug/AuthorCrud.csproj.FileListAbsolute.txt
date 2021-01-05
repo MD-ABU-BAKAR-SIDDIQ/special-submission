@@ -1,0 +1,10 @@
+C:\Users\Arman\Desktop\Author\AuthorCrud\AuthorCrud\obj\Debug\AuthorCrud.csprojAssemblyReference.cache
+C:\Users\Arman\Desktop\Author\AuthorCrud\AuthorCrud\obj\Debug\AuthorCrud.Form1.resources
+C:\Users\Arman\Desktop\Author\AuthorCrud\AuthorCrud\obj\Debug\AuthorCrud.Properties.Resources.resources
+C:\Users\Arman\Desktop\Author\AuthorCrud\AuthorCrud\obj\Debug\AuthorCrud.csproj.GenerateResource.cache
+C:\Users\Arman\Desktop\Author\AuthorCrud\AuthorCrud\obj\Debug\AuthorCrud.csproj.CoreCompileInputs.cache
+C:\Users\Arman\Desktop\Author\AuthorCrud\AuthorCrud\bin\Debug\AuthorCrud.exe.config
+C:\Users\Arman\Desktop\Author\AuthorCrud\AuthorCrud\bin\Debug\AuthorCrud.exe
+C:\Users\Arman\Desktop\Author\AuthorCrud\AuthorCrud\bin\Debug\AuthorCrud.pdb
+C:\Users\Arman\Desktop\Author\AuthorCrud\AuthorCrud\obj\Debug\AuthorCrud.exe
+C:\Users\Arman\Desktop\Author\AuthorCrud\AuthorCrud\obj\Debug\AuthorCrud.pdb
